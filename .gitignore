@@ -114,4 +114,4 @@ venv.bak/
 .idea/
 .env_custom
 media/
-/static/
+/staticfiles/
